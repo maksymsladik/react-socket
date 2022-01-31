@@ -1,0 +1,42 @@
+@import "src/theme/base/variables";
+
+.aapl,
+.amzn,
+.fb,
+.googl,
+.msft,
+.tsla {
+  width: 150px;
+}
+
+.aapl {
+  color: $red;
+}
+
+.amzn {
+  color: $yellow;
+}
+
+.fb {
+  color: $pink-1;
+}
+
+.googl {
+  color: $blue-1;
+}
+
+.msft {
+  color: $green-1;
+}
+
+.tsla {
+  color: $blue-2;
+}
+
+.plus {
+  color: $green-2;
+}
+
+.minus {
+  color: $red;
+}
